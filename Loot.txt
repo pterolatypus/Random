@@ -1,3 +1,5 @@
+$author: Pterolatypus
+
 $phrase
 Hello
 Goodbye
