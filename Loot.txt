@@ -1,4 +1,6 @@
+$name : Lootatron
 $author : Pterolatypus
+$description : Generates random loot items for RPGs
 
 $phrase
 Hello
